@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 # import pandas
 import pandas as pd
 
@@ -48,10 +42,3 @@ ax2.tick_params('y', colors='red')
 
 # show the graph
 plt.show()
-
-
-# In[ ]:
-
-
-
-
